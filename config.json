@@ -5,5 +5,3 @@
     "webhook": "entire discord webhook link",
     "token": "discord token here"
 }
-
-// rename file to config.json and remove this comment
